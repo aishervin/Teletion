@@ -1,11 +1,24 @@
-<div align="center">
+# TELESHΞN™ Web Client
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A modern, high-performance Telegram Web client.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Official Brand Engine**: TELESHΞN™ real-time state machine
+- **Built-in Assistant**: ®️SHΞN™ᴢᴇʀᴏ
+- **Direct Support**: @shervini
+- **Voice Message Audio Engine**: Live waveform visualizer and playback
+- **Themes**: Telegram Dark, Midnight OLED, Emerald Green, Cyber Violet, Clean Light
+- **E2E Calls**: Cryptographic key verification and call overlay
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Development
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+```bash
+npm install
+npm run dev
+```
 
-</div>
+## Production Build
+
+```bash
+npm run build
+```
